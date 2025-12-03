@@ -6,7 +6,7 @@ bueno por hobbi, por querer aprender, por que allar una solucion a lenguajes gra
 ## me base..
 me base en un lenguaje llamado go (goland), pero mas sencillo.. la palabras reservadas, la forma de escribirla es igual pero mas sencilla..
 
-un ejemplo de hello_word.b seria..
+un ejemplo de hello_world.b seria..
 ```
 // este es un comentario.. 
 func main()                    //la funcion principal o de arranque..
