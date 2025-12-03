@@ -9,9 +9,9 @@ me base en un lenguaje llamado go (goland), pero mas sencillo.. la palabras rese
 un ejemplo de hello_word.b seria..
 ```
 // este es un comentario.. 
-func main() //la funcion principal o de arranque..
+func main()                    //la funcion principal o de arranque..
 {
-  print("hello, world...\n") // la funcion para imprimir o mostrar en pantalla
+  print("hello, world...\n")   // la funcion para imprimir o mostrar en pantalla
 } 
 
 ```
