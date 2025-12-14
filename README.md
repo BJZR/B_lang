@@ -2,7 +2,7 @@
 lenguaje compilable a asm x86_64 para linux
 
 ## cual es la razon por la cual crear un lenguaje..
-bueno por hobbi, por querer aprender, por que allar una solucion a lenguajes grandes y mayormente complejo..
+bueno por hobbi, por querer aprender, por que hallar una solucion a lenguajes grandes y mayormente complejos..
 ## me base..
 me base en un go (goland), pero mas sencillo.. la palabras reservadas, la forma de escribirla es igual pero mas sencilla..
 
