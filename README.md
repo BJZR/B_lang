@@ -9,9 +9,9 @@ me base en un go (goland), pero mas sencillo.. la palabras reservadas, la forma 
 un ejemplo de hello_world.b seria..
 ```
 // este es un comentario.. 
-func main() void { //la funcion principal o de arranque.. 
-  // void significa que la funcion main no retorno ningun tipo...
-  print("hello, world...\n")   // la funcion para imprimir o mostrar en pantalla..
+func main() void {                       //la funcion principal o de arranque.. 
+                                        // void significa que la funcion main no retorno ningun tipo...
+  print("hello, world...\n")           // la funcion para imprimir o mostrar en pantalla..
 } 
 
 ```
