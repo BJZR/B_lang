@@ -15,4 +15,4 @@ func main() void {                       //la funcion principal o de arranque..
 } 
 
 ```
-como puedes ver es sencillo y por ahora no hay una version beta, por que falta mejorar y pulir funciones ya integradas..
+como puedes ver es sencillo y por ahora es una version beta, por que falta mejorar y pulir funciones ya integradas..
