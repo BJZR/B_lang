@@ -10,7 +10,7 @@ un ejemplo de hello_world.b seria..
 ```
 // este es un comentario.. 
 func main() void {                       //la funcion principal o de arranque.. 
-                                        // void significa que la funcion main no retorno ningun tipo...
+                                        // void significa que la funcion main no retorno ningun tipo de dato... es opcional poner void..
   print("hello, world...\n")           // la funcion para imprimir o mostrar en pantalla..
 } 
 
